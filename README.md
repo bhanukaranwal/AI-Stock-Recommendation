@@ -119,7 +119,7 @@ Feel free to extend the project with:
 
 ## 📧 Support & Contact
 
-For questions or help, please open issues on GitHub or contact [your.email@example.com].
+For questions or help, please open issues on GitHub or contact Bhanu@karanwalcapital.com
 
 ---
 
